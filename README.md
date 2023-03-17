@@ -1,7 +1,7 @@
 # Practice Django for me
 
-Hi, This repository is for learning Django **FOR ME**, not you.
-If you want to see my work, welceom to here!
+Hi, This repository is for learning Django **FOR ME**, not you.  
+If you want to see my work, welceom to here!  
 Please feel free to see around.
 
 # Writing rules
