@@ -1,3 +1,6 @@
+# vscode
+.vscode/*
+
 # Debug files
 test*.bat
 
